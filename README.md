@@ -1,2 +1,1 @@
 # cgspec
-ssss
